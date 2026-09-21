@@ -6,7 +6,15 @@
 
 
 ## LT spice circuit diagram
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/6e2b0327-2a26-4831-b845-165ff90b5f2c" />
+
 
 ## output graph
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e76e8ab-9f73-4ee0-9403-e1ad63a4fca6" />
+<img width="1090" height="1599" alt="image" src="https://github.com/user-attachments/assets/7968441c-977a-49c5-80b0-56064009a103" />
+
+
 
 ## result
+<img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/381f3844-252d-452a-aae8-1e6fcd83d06c" />
+
