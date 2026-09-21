@@ -7,7 +7,15 @@
 
 
 ## tabulation
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/db013a6a-dec2-4a29-b1cd-492f70265eb0" />
+
 
 ## attach graph sheet
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe2e2886-dd2c-4694-a076-5a3d0d5a87d1" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/64498d33-426b-4164-a578-bac785dc728a" />
+
+
 
 ## result
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/d8a05abf-fda6-4e0d-8f1f-5de14fefaecd" />
+
