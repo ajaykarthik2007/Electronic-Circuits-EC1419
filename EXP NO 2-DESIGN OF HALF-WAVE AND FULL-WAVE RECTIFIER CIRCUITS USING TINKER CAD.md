@@ -17,6 +17,8 @@
 
 ## output graph
 <img width="1570" height="1599" alt="image" src="https://github.com/user-attachments/assets/877a0d4c-7649-44ca-babb-2da91aa4b9dc" />
+mark allocation:
+<img width="3045" height="2094" alt="IMG_20260923_120001642" src="https://github.com/user-attachments/assets/90cf969b-1f92-4ca4-842a-5a989d2f68d3" />
 
 
 ## result
