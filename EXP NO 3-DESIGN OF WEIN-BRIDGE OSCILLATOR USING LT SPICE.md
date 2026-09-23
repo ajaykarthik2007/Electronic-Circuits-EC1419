@@ -35,6 +35,8 @@
 ## calculation
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e2e2680f-924a-4b27-9a8d-d4f1bcfb22c5" />
 
+mark allocation:
+<img width="3072" height="2292" alt="IMG_20260923_120025125" src="https://github.com/user-attachments/assets/c91d25ad-fa3d-4e05-9032-fa893d768c61" />
 
 ## result
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/095ce520-67d5-4dc1-b252-1d27d913d033" />
