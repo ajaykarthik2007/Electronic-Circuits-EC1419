@@ -13,6 +13,8 @@
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e76e8ab-9f73-4ee0-9403-e1ad63a4fca6" />
 <img width="1090" height="1599" alt="image" src="https://github.com/user-attachments/assets/7968441c-977a-49c5-80b0-56064009a103" />
 
+mark allocation:
+<img width="3072" height="2386" alt="IMG_20260923_120048566_HDR" src="https://github.com/user-attachments/assets/8c8b3fde-0bbb-4dd4-af35-7f46d1e6b89d" />
 
 
 ## result
