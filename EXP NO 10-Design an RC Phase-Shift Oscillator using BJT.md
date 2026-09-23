@@ -19,6 +19,8 @@
 ## calculation
 <img width="1600" height="1449" alt="image" src="https://github.com/user-attachments/assets/663a6cb0-8897-493a-887b-634e80b2c0aa" />
 
+mark allocation:
+<img width="2955" height="2777" alt="IMG_20260923_120303503" src="https://github.com/user-attachments/assets/e0cb49e4-32f5-45ca-8e46-910bd175187a" />
 
 ## result
 <img width="1600" height="911" alt="image" src="https://github.com/user-attachments/assets/05c84567-39b5-46aa-8129-8124b17c1ff0" />
