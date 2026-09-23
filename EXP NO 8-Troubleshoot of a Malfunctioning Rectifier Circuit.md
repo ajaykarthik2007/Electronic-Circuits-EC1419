@@ -14,6 +14,8 @@
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe2e2886-dd2c-4694-a076-5a3d0d5a87d1" />
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/64498d33-426b-4164-a578-bac785dc728a" />
 
+mark allocation:
+<img width="3006" height="2713" alt="IMG_20260923_120224154" src="https://github.com/user-attachments/assets/19b161b7-d666-452c-984f-a980a97bd1a0" />
 
 
 ## result
