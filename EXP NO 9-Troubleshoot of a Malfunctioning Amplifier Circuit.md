@@ -13,6 +13,8 @@
 
 ## attach semilog graph
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ec87d951-2a6e-47cd-9977-411ff30f5ad9" />
+mark allocation:
+<img width="2896" height="2705" alt="IMG_20260923_120243770" src="https://github.com/user-attachments/assets/88b99cf3-e746-494f-a555-150f613a1d16" />
 
 
 ## result
