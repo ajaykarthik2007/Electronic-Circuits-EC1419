@@ -21,7 +21,7 @@
 
 ## calculation
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/04a9c409-699c-4471-9565-95ec9d63bb64" />
-## mark allocation:
+ mark allocation:
 
 <img width="2865" height="2826" alt="IMG_20260923_115937103" src="https://github.com/user-attachments/assets/0348bf27-0f1e-40a0-8c43-398018168d23" />
 
