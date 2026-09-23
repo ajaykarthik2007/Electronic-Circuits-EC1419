@@ -15,6 +15,8 @@
 ## output waveform
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3c9fab99-21a5-4ec8-94d4-03d872114d60" />
 
+mark allocation:
+<img width="2948" height="2201" alt="IMG_20260923_120121991" src="https://github.com/user-attachments/assets/f7880855-b3f8-4d74-bb5e-49a5bcd79313" />
 
 ## result
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/a8a28cff-9315-4a32-acb4-7f5d14208c49" />
