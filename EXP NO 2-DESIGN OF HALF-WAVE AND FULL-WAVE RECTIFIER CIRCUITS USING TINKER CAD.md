@@ -10,6 +10,7 @@
 ## tinker cad circuit diagram
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b92e72d0-c676-4258-aef0-400542a356d9" />
 
+![IMG_20260923_121009019_HDR](https://github.com/user-attachments/assets/1398aaaf-fcaa-4364-97ff-c6367e82a4a7)
 
 ## ripple factor calculation
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dbb9d02-0946-4f07-b110-ccd6dfbc00f3" />
@@ -17,6 +18,8 @@
 
 ## output graph
 <img width="1570" height="1599" alt="image" src="https://github.com/user-attachments/assets/877a0d4c-7649-44ca-babb-2da91aa4b9dc" />
+<img width="3028" height="2418" alt="IMG_20260923_121014906_HDR" src="https://github.com/user-attachments/assets/c457db0d-35de-4834-8301-52a2eb22fe8b" />
+
 mark allocation:
 <img width="3045" height="2094" alt="IMG_20260923_120001642" src="https://github.com/user-attachments/assets/90cf969b-1f92-4ca4-842a-5a989d2f68d3" />
 
