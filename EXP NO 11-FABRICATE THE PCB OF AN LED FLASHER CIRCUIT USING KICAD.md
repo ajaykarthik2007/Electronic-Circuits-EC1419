@@ -13,6 +13,8 @@
 ## PCB 3D view
 <img width="1508" height="1600" alt="image" src="https://github.com/user-attachments/assets/20e27198-d867-4e16-bd5b-52e93a747fc6" />
 
+mark allocation:
+<img width="2846" height="2609" alt="IMG_20260923_120320765" src="https://github.com/user-attachments/assets/90d1b287-a5e4-4396-840a-9bb8190fa211" />
 
 ## result
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/92cf3f2f-886e-42e8-839e-a86da659fd20" />
