@@ -10,6 +10,8 @@
 
 ## Kicad circuit diagram
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a8cec6b-d210-4bd8-ac0d-f1461321e7b2" />
+pcb design:
+<img width="830" height="1583" alt="IMG-20260924-WA0013" src="https://github.com/user-attachments/assets/02017aaf-7434-439f-a733-5628a7a255c8" />
 
 
 ## output waveform
