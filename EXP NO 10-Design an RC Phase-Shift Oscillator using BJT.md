@@ -6,6 +6,8 @@
 <img width="605" height="365" alt="image" src="https://github.com/user-attachments/assets/5143c2c1-ae7c-489b-a272-84a3ae406fad" />
 <img width="716" height="620" alt="image" src="https://github.com/user-attachments/assets/5516ee22-0e46-4a33-8922-a74538cc7b72" />
 <img width="540" height="138" alt="image" src="https://github.com/user-attachments/assets/37828781-c043-496d-9cbf-caafe7d24c44" />
+circuit diagram:
+<img width="720" height="1280" alt="IMG-20260924-WA0023" src="https://github.com/user-attachments/assets/b163a31f-3163-411f-a738-30a43dbae4d7" />
 
 
 ## tabulation
