@@ -11,9 +11,12 @@
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b92e72d0-c676-4258-aef0-400542a356d9" />
 
 ![IMG_20260923_121009019_HDR](https://github.com/user-attachments/assets/1398aaaf-fcaa-4364-97ff-c6367e82a4a7)
+<img width="3072" height="4096" alt="IMG-20260924-WA0010" src="https://github.com/user-attachments/assets/cb569f38-98fa-4be3-a91c-b2967843d334" />
+
 
 ## ripple factor calculation
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dbb9d02-0946-4f07-b110-ccd6dfbc00f3" />
+<img width="4096" height="3072" alt="IMG-20260924-WA0012" src="https://github.com/user-attachments/assets/d742e9da-bcb6-400f-8541-9f28c2dcdfb7" />
 
 
 ## output graph
