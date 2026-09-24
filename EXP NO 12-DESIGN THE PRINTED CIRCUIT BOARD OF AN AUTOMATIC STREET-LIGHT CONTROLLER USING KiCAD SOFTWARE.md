@@ -11,8 +11,6 @@
 <img width="1600" height="1427" alt="image" src="https://github.com/user-attachments/assets/186c962a-b032-4538-b3db-767c42fdf518" />
 
 
-## PCB layout view
-<img width="1600" height="1339" alt="image" src="https://github.com/user-attachments/assets/993e862e-3f15-4e1a-8753-3ac865a863b6" />
 
 
 ## PCB 3D view
